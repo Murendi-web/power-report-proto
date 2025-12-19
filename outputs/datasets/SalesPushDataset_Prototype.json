@@ -1,0 +1,10 @@
+{
+  "id": "mock-SalesPushDataset_Prototype",
+  "name": "SalesPushDataset_Prototype",
+  "table": "SalesAggregated",
+  "columns": {
+    "product_id": "string",
+    "quantity": "Int64",
+    "total_price": "Double"
+  }
+}

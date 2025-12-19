@@ -1,0 +1,18 @@
+[
+  {
+    "Product": "Widget A",
+    "Stock": 50
+  },
+  {
+    "Product": "Widget B",
+    "Stock": 50
+  },
+  {
+    "Product": "Widget C",
+    "Stock": 50
+  },
+  {
+    "Product": "Widget D",
+    "Stock": 50
+  }
+]

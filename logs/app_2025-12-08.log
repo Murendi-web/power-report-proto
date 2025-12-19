@@ -1,0 +1,16 @@
+2025-12-08 19:36:03.707 | INFO     | __main__:run_once:25 - === RUN START ===
+2025-12-08 19:36:03.798 | INFO     | db:fetch_data:13 - Executing query to fetch data
+2025-12-08 19:36:03.800 | INFO     | db:fetch_data:15 - Fetched 32 rows
+2025-12-08 19:36:03.800 | INFO     | etl:transform_sales_data:5 - Starting transformation
+2025-12-08 19:36:03.806 | INFO     | etl:transform_sales_data:19 - Transformed into 32 aggregated rows
+2025-12-08 19:36:03.808 | INFO     | powerbi_client:create_push_dataset:23 - [MOCK] Created dataset: ./outputs/datasets/SalesPushDataset_Prototype.json
+2025-12-08 19:36:03.808 | INFO     | powerbi_client:add_rows:35 - [MOCK] Added 32 rows to ./outputs/datasets/mock-SalesPushDataset_Prototype_rows.json
+2025-12-08 19:36:03.808 | INFO     | __main__:run_once:79 - === RUN COMPLETE ===
+2025-12-08 19:36:54.726 | INFO     | __main__:run_once:25 - === RUN START ===
+2025-12-08 19:36:54.741 | INFO     | db:fetch_data:13 - Executing query to fetch data
+2025-12-08 19:36:54.745 | INFO     | db:fetch_data:15 - Fetched 32 rows
+2025-12-08 19:36:54.745 | INFO     | etl:transform_sales_data:5 - Starting transformation
+2025-12-08 19:36:54.754 | INFO     | etl:transform_sales_data:19 - Transformed into 32 aggregated rows
+2025-12-08 19:36:54.755 | INFO     | powerbi_client:create_push_dataset:23 - [MOCK] Created dataset: ./outputs/datasets/SalesPushDataset_Prototype.json
+2025-12-08 19:36:54.756 | INFO     | powerbi_client:add_rows:35 - [MOCK] Added 32 rows to ./outputs/datasets/mock-SalesPushDataset_Prototype_rows.json
+2025-12-08 19:36:54.756 | INFO     | __main__:run_once:79 - === RUN COMPLETE ===
